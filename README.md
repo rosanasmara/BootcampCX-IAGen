@@ -15,6 +15,5 @@ O episódio é uma narrativa simples e amigável para falar da importância de u
 
 <a href="https://github.com/rosanasmara/BootcampCX/blob/a368c813e686145b1a60329fe34daf9fab16aacc/Alimenta%C3%A7%C3%A3o%20natural%20na%20melhor%20idade.mp3" title="Podcast"> Podcast Alimentação natural na melhor idade</a>
 
-
 ## 💭 Reflexão (Opcional)
 A experiência de gerar um conteúdo com inteligência artificial de forma prática e rápida em que foi possível alcançar consistência nas informações aliada a capacidade de construir uma narrativa acessível e direcionada a um público foi empolgante. E ainda a possibilidade de criar através de uma IA a narração 🤩
